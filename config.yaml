@@ -1,0 +1,10 @@
+commands:
+  - github:
+      pr:
+        repo: "shramish2057/k8s_resource_monitor"
+        state: "open"
+  - system:
+      cpu_usage: {}
+  - kubernetes:
+      list_pods:
+        namespace: "default"
