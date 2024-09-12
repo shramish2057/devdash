@@ -61,7 +61,7 @@ DevDash: Developer Dashboard CLI </> 🐳 ☸ 🛠️
 
 ### 1. Clone the DevDash repository:
    ```bash
-   git clone https://github.com/your-repo/devdash.git
+   git clone https://github.com/shramish2057/devdash
    ```
 
 ### 2. Navigate into the project directory:
